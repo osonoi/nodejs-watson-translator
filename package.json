@@ -2,7 +2,7 @@
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
-    "ibm-watson": "^6.0.4"
+    "ibm-watson": "^7.1.0"
   },
   "name": "nodejs-watson-translator",
   "description": "Node.jsアプリからIBM Watson Language Translatorを呼び出すサンプルです。",
